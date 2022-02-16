@@ -13,11 +13,11 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: src/App.tsx:33
+#: src/App.tsx:50
 msgid "Date formatter example:"
 msgstr "Date formatter example:"
 
-#: src/App.tsx:28
+#: src/App.tsx:40
 msgid "Decrement"
 msgstr "Decrement"
 
@@ -25,15 +25,15 @@ msgstr "Decrement"
 #~ msgid "Edit <0>{variable}</0> and save to test HMR updates <1>{variable}</1>."
 #~ msgstr "Edit <0>{variable}</0> and save to test HMR updates <1>{variable}</1>."
 
-#: src/App.tsx:42
+#: src/App.tsx:59
 msgid "I have a balance of {0}"
 msgstr "I have a balance of {0}"
 
-#: src/App.tsx:25
+#: src/App.tsx:37
 msgid "Increment"
 msgstr "Increment"
 
-#: src/App.tsx:13
+#: src/App.tsx:19
 msgid "Language switcher example:"
 msgstr "Language switcher example:"
 
@@ -42,11 +42,11 @@ msgstr "Language switcher example:"
 #~ msgid "Multiline with continuation"
 #~ msgstr "Multiline with continuation"
 
-#: src/App.tsx:39
+#: src/App.tsx:56
 msgid "Number formatter example:"
 msgstr "Number formatter example:"
 
-#: src/App.tsx:21
+#: src/App.tsx:33
 msgid "Plurals example:"
 msgstr "Plurals example:"
 
@@ -60,7 +60,7 @@ msgstr "Plurals example:"
 #~ msgid "This is bar {bar}"
 #~ msgstr "This is bar {bar}<<<<<<< HEAD"
 
-#: src/App.tsx:36
+#: src/App.tsx:53
 msgid "Today is {0}"
 msgstr "Today is {0}"
 
@@ -69,10 +69,10 @@ msgstr "Today is {0}"
 #~ msgid "count is in:"
 #~ msgstr "count is in:======="
 
-#: src/App.tsx:47
+#: src/App.tsx:64
 msgid "template literal sample text"
 msgstr "template literal sample text"
 
-#: src/App.tsx:31
+#: src/App.tsx:43
 msgid "{count, plural, zero {There are no books} one {There's one book} other {There are # books}}"
 msgstr "{count, plural, zero {There are no books} one {There's one book} other {There are # books}}"

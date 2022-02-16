@@ -13,11 +13,11 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: src/App.tsx:33
+#: src/App.tsx:50
 msgid "Date formatter example:"
 msgstr "Příklad formátovače data:"
 
-#: src/App.tsx:28
+#: src/App.tsx:40
 msgid "Decrement"
 msgstr "Úbytek"
 
@@ -27,23 +27,23 @@ msgstr "Úbytek"
 #~ msgid "Edit <0>{variable}</0> and save to test HMR updates <1>{variable}</1>."
 #~ msgstr "======="
 
-#: src/App.tsx:42
+#: src/App.tsx:59
 msgid "I have a balance of {0}"
 msgstr "Mám zůstatek {0}"
 
-#: src/App.tsx:25
+#: src/App.tsx:37
 msgid "Increment"
 msgstr "Přírůstek"
 
-#: src/App.tsx:13
+#: src/App.tsx:19
 msgid "Language switcher example:"
 msgstr "Příklad přepínače jazyků:"
 
-#: src/App.tsx:39
+#: src/App.tsx:56
 msgid "Number formatter example:"
 msgstr "Příklad formátovače čísel:"
 
-#: src/App.tsx:21
+#: src/App.tsx:33
 msgid "Plurals example:"
 msgstr "Příklad množného čísla:"
 
@@ -52,7 +52,7 @@ msgstr "Příklad množného čísla:"
 #~ msgid "This is bar {bar}"
 #~ msgstr ""
 
-#: src/App.tsx:36
+#: src/App.tsx:53
 msgid "Today is {0}"
 msgstr "Dnes je {0}<<<<<<< HEAD"
 
@@ -61,10 +61,10 @@ msgstr "Dnes je {0}<<<<<<< HEAD"
 #~ msgid "count is in:"
 #~ msgstr "======="
 
-#: src/App.tsx:47
+#: src/App.tsx:64
 msgid "template literal sample text"
 msgstr "příklad textu v template literálu"
 
-#: src/App.tsx:31
+#: src/App.tsx:43
 msgid "{count, plural, zero {There are no books} one {There's one book} other {There are # books}}"
 msgstr "{count, plural, zero {Nejsou žádné knihy} one {Je tu jedna kniha} other {Existuje # knih}}"
